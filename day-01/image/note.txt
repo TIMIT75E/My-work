@@ -1,0 +1,8 @@
+h1 tag = 1.name 
+p tag lorem30
+a tag youtube link
+h1 tag italic
+img hi wi
+tabil 3r 3c
+h1 red color
+p tag blu
